@@ -1,9 +1,9 @@
 # 开启 Apache mod_headers
-<IfModule mod_headers.c>
+#<IfModule mod_headers.c>
     # 允许跨域访问
     # 填入 MTurk 的域名或 IP 地址，例如：
     # SetEnvIf Origin "https://www.mturk.com" AccessControlAllowOrigin=$0
-    SetEnvIf Origin "http(s)?://(www\.)?(mturk.com|([0-9]{1,3}\.){3}[0-9]{1,3})$" AccessControlAllowOrigin=$0
-    Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
-    Header merge Vary Origin
-</IfModule>
+    #SetEnvIf Origin "http(s)?://(www\.)?(mturk.com|([0-9]{1,3}\.){3}[0-9]{1,3})$" AccessControlAllowOrigin=$0
+    #Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
+    #Header merge Vary Origin
+#</IfModule>
