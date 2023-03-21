@@ -1,6 +1,9 @@
 <IfModule mod_headers.c>
-  <FilesMatch ".(gif|png|jpeg|svg|xml|json)$">
-    Header set Access-Control-Allow-Origin: mturk.com
-  </FilesMatch>
+SetEnvIf Origin "http(s)?://(www\.)?(mturk.com|requestersandbox.mturk.com)$" 
+AccessControlAllowOrigin=$0
+Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e 
+env=AccessControlAllowOrigin
+Header merge Vary Origin
 </IfModule>
+
 
