@@ -1,6 +1,6 @@
 <IfModule mod_headers.c>
   <FilesMatch ".(gif|png|jpe?g|svg|xml|json)$">
-    Header set Access-Control-Allow-Origin: requestersandbox.mturk.com/*, workersandbox.mturk.com/*
+    Header set Access-Control-Allow-Origin: requestersandbox.mturk.com, workersandbox.mturk.com
   </FilesMatch>
 </IfModule>
 
