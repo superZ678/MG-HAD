@@ -1,3 +1,6 @@
 <IfModule mod_headers.c>
-  Header set Access-Control-Allow-Origin "*"
+  <FilesMatch ".(gif|png|jpe?g|svg|xml|json)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
 </IfModule>
+
