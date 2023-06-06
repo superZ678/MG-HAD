@@ -1,2 +1,12 @@
-# FHA-Kitchens
-A typical task in the field of video understanding is hand action recognition, which has a wide range of applications. Existing works either mainly focus on full-body actions, or the defined action categories are relatively coarse-grained. In this paper, we propose FHA-Kitchens, a novel dataset of fine-grained hand actions in kitchen scenes. In particular, we focus on human hand interaction regions and perform deep excavation to further refine hand action information and interaction regions. Our FHA-Kitchens dataset consists of $2,377$ video clips and $30,047$ images collected from $8$ different types of dishes, and all hand interaction regions in each image are labeled with high-quality fine-grained action classes and bounding boxes. We represent the action information in each hand interaction region as a triplet, resulting in a total of $878$ action triplets. Based on the constructed dataset, we benchmark representative action recognition and detection models on the following three tracks: (1) supervised learning for action detection of hand interaction regions and objects, (2) supervised learning for fine-grained hand action recognition, and (3) intra- and inter-class domain generalization for fine-grained hand action. The experimental results offer compelling empirical evidence that highlights the challenges inherent in fine-grained hand action recognition, while also shedding light on potential avenues for future research, particularly in relation to pre-training strategy, model design, and domain generalization.
+<h1 align="center"> FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes </h1>
+<p align="center">
+<!-- <a href="https://arxiv.org/abs/2305.02034"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a> -->
+</p>
+<h5 align="center"><em>Ting Zhe, Yongqian Li, Jing Zhang, Yong Luo, Han Hu, Bo Du, Yonggang Wen, Dacheng Tao</em></h5>
+<p align="center">
+  <a href="#news">News</a> |
+  <a href="#introduction">Abstract</a> |
+  <a href="#usage">Usage</a> |
+  <a href="#results">Results</a> |
+  <a href="#statement">Statement</a>
+</p>
