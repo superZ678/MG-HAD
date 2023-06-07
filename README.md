@@ -81,7 +81,7 @@ Verbs: The annotated dataset comprises 131 action verbs that have been grouped i
 
 <figure>
 <img src="Figs/noun.png">
-<figcaption align = "center"><b>Figure 6: The distribution of instances per object noun category from 17 super-categories in the FHA-Kitchens datas.</a>  
+<figcaption align = "center"><b>Figure 6: The distribution of instances per object noun category from 17 super-categories in the FHA-Kitchens dataset.</a>  
  </b></figcaption>
 </figure>
 
