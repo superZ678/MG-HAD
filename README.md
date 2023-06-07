@@ -16,7 +16,7 @@
 # News
 
 # Introduction
-This is the official repository of the paper FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes
+This is the official repository of the paper FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes.
 <!-- <a href="https://arxiv.org/abs/2305.02034"> FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes </a> -->
 
 <figure>
