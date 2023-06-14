@@ -98,7 +98,7 @@ Nouns: In our annotation process, we identified a total of 384 interaction objec
 </figure>
 
 <p>
-  The distribution of instances per action triplet category in FHA-Kitchens, as depicted in Figure 7, depicts a long-tail property. This distribution reflects the frequency of hand interactions in real-world kitchen scenes, taking into account the varying commonness or rarity of specific hand actions. For instance, the action triplet "<hand_right, hold-in, utility-knife_handle>" consists of 9,887 instances, which is nine times more prevalent than the "<hand_left, hold-in, utility-knife_handle>" triplet. This long-tail characteristic of the distribution renders FHA-Kitchens a challenging benchmark for hand action recognition, making it suitable for investigating few-shot learning and out-of-distribution generalization in action recognition as well.
+  The distribution of instances per action triplet category in FHA-Kitchens, as depicted in Figure 7, depicts a long-tail property. This distribution reflects the frequency of hand interactions in real-world kitchen scenes, taking into account the varying commonness or rarity of specific hand actions. For instance, the action triplet (hand_right, hold-in, utility-knife_handle) consists of 9,887 instances, which is nine times more prevalent than the (hand_left, hold-in, utility-knife_handle) triplet. This long-tail characteristic of the distribution renders FHA-Kitchens a challenging benchmark for hand action recognition, making it suitable for investigating few-shot learning and out-of-distribution generalization in action recognition as well.
  
 ### Statistics of bounding box.
   
