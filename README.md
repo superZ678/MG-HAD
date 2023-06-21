@@ -1,6 +1,6 @@
 <h1 align="center"> FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes </h1>
 <p align="center">
-<!-- <a href="https://arxiv.org/abs/2305.02034"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a> -->
+<a href="https://arxiv.org/abs/2306.10858"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 </p>
 <h5 align="center"><em>Ting Zhe, Yongqian Li, Jing Zhang, Yong Luo, Han Hu, Bo Du, Yonggang Wen, Dacheng Tao</em></h5>
 <p align="center">
@@ -15,9 +15,12 @@
 
 # News
 
+**2023.06.21**
+
+- The tech report is post on arxiv! Work in progress.
+
 # Introduction
-This is the official repository of the paper FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes.
-<!-- <a href="https://arxiv.org/abs/2305.02034"> FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes </a> -->
+This is the official repository of the paper <a href="https://arxiv.org/abs/2306.10858"> FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes.
 
 <figure>
 <img src="Figs/overview.png">
