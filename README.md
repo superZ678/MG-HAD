@@ -15,6 +15,10 @@
 
 # News
 
+**2023.08.21**
+
+- We have uploaded annotation information for the validation set and a video demo of bounding box annotations for different interaction regions for review.
+
 **2023.06.21**
 
 - The tech report is post on arxiv! Work in progress.
@@ -44,7 +48,10 @@ The code and dataset will be released soon.
 <figcaption align = "center"><b>Figure 2: Left: Visualization of bounding box annotations for the example of "fry vegetables". Right: Descriptive list of action triplets and bounding box annotations.  
  </b></figcaption>
 </figure>
-  
+
+## Demo of bounding box annotations for different interaction regions.  
+ 
+https://github.com/tingZ123/FHA-Kitchens/assets/35674945/8e2a9ddd-3244-479f-b48c-5e108b1541e0 
   
 # Results
 ## The comparison information of relevant datasets
