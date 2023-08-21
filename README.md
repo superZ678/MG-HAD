@@ -42,14 +42,14 @@ The code and dataset will be released soon.
 
 
 # Annotation Details
-  
+## Visualization for annotations
  <figure>
 <img src="Figs/annotation.png">
 <figcaption align = "center"><b>Figure 2: Left: Visualization of bounding box annotations for the example of "fry vegetables". Right: Descriptive list of action triplets and bounding box annotations.  
  </b></figcaption>
 </figure>
 
-## Demo of bounding box annotations for different interaction regions.  
+## Demo of bounding box annotations for different interaction regions
  
 https://github.com/tingZ123/FHA-Kitchens/assets/35674945/8e2a9ddd-3244-479f-b48c-5e108b1541e0 
   
