@@ -143,7 +143,7 @@ Nouns: In our annotation process, we identified a total of 384 interaction objec
 
 # Statement
 
-This project is for research purpose only. For any other questions please contact [zheting@whu.edu.cn](mailto:zheting@whu.edu.cn).![image](https://github.com/superZ678/FHA-Kitchens/assets/35674945/f3a86b15-0b29-4898-b13f-52b78179031f)
+This project is for research purpose only. For any other questions please contact [zheting@whu.edu.cn]
 
 
 
