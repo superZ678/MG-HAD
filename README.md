@@ -19,12 +19,9 @@
 
 - We have uploaded annotation information for the validation set and a video demo of bounding box annotations for different interaction regions for review.
 
-**2023.06.21**
-
-- The tech report is post on arxiv! Work in progress.
 
 # Introduction
-This is the official repository of the paper <a href="https://arxiv.org/abs/2306.10858"> FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes.
+This is the official repository of the paper FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes.
 
 <figure>
 <img src="Figs/overview.png">
@@ -141,7 +138,7 @@ Nouns: In our annotation process, we identified a total of 384 interaction objec
 
 # Statement
 
-This project is for research purpose only. For any other questions please contact [zheting@whu.edu.cn](mailto:zheting@whu.edu.cn).
+This project is for research purpose only.
 
 
 ## Citation
