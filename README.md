@@ -47,8 +47,10 @@ The code and dataset will be released soon.
 </figure>
 
 ## Demo of bounding box annotations for different interaction regions
- 
-https://github.com/tingZ123/FHA-Kitchens/assets/35674945/8e2a9ddd-3244-479f-b48c-5e108b1541e0 
+
+https://github.com/superZ678/FHA-Kitchens/assets/35674945/16f7d614-3738-494b-baf9-4a394b628d28
+
+
   
 # Results
 ## The comparison information of relevant datasets
