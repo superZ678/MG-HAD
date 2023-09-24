@@ -21,7 +21,7 @@
 
 **2023.06.21**
 
-- The tech report is post on arxiv! Work in progress.![image](https://github.com/superZ678/FHA-Kitchens/assets/35674945/e0c7a72d-c5f2-4441-9722-e7439e7b76b4)
+- The tech report is post on arxiv! Work in progress!
 
 # Introduction
 This is the official repository of the paper FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes.
