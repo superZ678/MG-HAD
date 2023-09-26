@@ -133,7 +133,7 @@ Nouns: In our annotation process, we identified a total of 384 interaction objec
   
 <figure>
 <img src="Figs/vis.png">
-<figcaption align = "center"><b>Figure 8: Some visual examples of interaction region detection using annotated data from our dataset.
+<figcaption align = "center"><b>Figure 10: Some visual examples of interaction region detection using annotated data from our dataset.
  </b></figcaption>
 </figure>
 
