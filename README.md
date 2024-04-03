@@ -56,8 +56,8 @@ https://github.com/superZ678/FHA-Kitchens/assets/35674945/16f7d614-3738-494b-baf
 ## The comparison information of relevant datasets
 
 <figure>
-<img src="Figs/compare1.png">
-<figcaption align = "center"><b>Figure 3: Comparison of relevant datasets. AR: Action Recognition. ARL: Action Region Localization. HIRD: Hand Interaction Region Detection. OD: Object Detection. ACat.: Action Category. OCat.: Object Category. Dim: Action Dimension. Box: Box Annotation of Action Region. 
+<img src="Figs/compare11.png">
+<figcaption align = "center"><b>Figure 3: Comparison of relevant datasets. AR: Action Recognition. AD: Action Detection. HAD: Hand Action Detection. OD: Object Detection. ACat.: Action Category. OCat.: Object Category. Dim: Action Dimension. IRBox: Interaction Region Box.
  </b></figcaption>
 </figure>
 
