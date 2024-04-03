@@ -84,7 +84,7 @@ A comprehensive comparison between our FHA-kitchens and existing datasets.
 
 <p>
   
-Verbs: The annotated dataset comprises 131 action verbs that have been grouped into 43 parent verb categories (Figure 4 and Figure 5). The three most prevalent parent verb categories, based on the count of sub-action verbs, are Cut, Hold, and Take, representing the most frequently occurring hand actions in human interactions. Figure 5 visually depicts the distribution of all verb categories within FHA-Kitchens, ensuring the presence of at least one instance for each verb category.
+Verbs: The annotated dataset comprises 130 action verbs that have been grouped into 43 parent verb categories (Figure 4 and Figure 5). The three most prevalent parent verb categories, based on the count of sub-action verbs, are Cut, Hold, and Take, representing the most frequently occurring hand actions in human interactions. Figure 5 visually depicts the distribution of all verb categories within FHA-Kitchens, ensuring the presence of at least one instance for each verb category.
 
 ### The interaction object noun categories distribution.
 
