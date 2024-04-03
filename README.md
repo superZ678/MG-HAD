@@ -70,13 +70,13 @@ A comprehensive comparison between our FHA-kitchens and existing datasets.
 ### The action verb categories distribution.
 
 <figure>
-<img src="Figs/parent and subcategories.png">
+<img src="Figs/parent and subcategories1.png">
 <figcaption align = "center"><b>Figure 4: An overview of the action verbs and their parent action categories in FHA-Kitchens.</a>  
  </b></figcaption>
 </figure>
 
 <figure>
-<img src="Figs/verb.png">
+<img src="Figs/verb1.png">
 <figcaption align = "center"><b>Figure 5: The distribution of instances per action verb category (the outer ring of the circle in Fig. 4) in the FHA-Kitchens dataset.</a>  
  </b></figcaption>
 </figure>
@@ -101,7 +101,7 @@ Nouns: In our annotation process, we identified a total of 384 interaction objec
 ### The action triplet categories distribution.
   
   <figure>
-<img src="Figs/action triplet.png">
+<img src="Figs/action triplet1.png">
 <figcaption align = "center"><b>Figure 7: The distribution of instances per action triplet category in the FHA-Kitchens dataset.</a>  
  </b></figcaption>
 </figure>
