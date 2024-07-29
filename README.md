@@ -17,6 +17,10 @@
 - The paper Multi-Granularity Hand Action Detection has been accepted by ACM Multimedia (MM). We will release the dataset and related code soon.
 
 
+## Demo of bounding box annotations for different interaction regions
+
+https://github.com/superZ678/FHA-Kitchens/assets/35674945/16f7d614-3738-494b-baf9-4a394b628d28
+
 
 # Statement
 
