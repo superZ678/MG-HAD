@@ -12,9 +12,9 @@
 
 # News
 
-**2023.08.21**
+**2024.07.16**
 
-- We have uploaded annotation information for the validation set and a video demo of bounding box annotations for different interaction regions for review.
+- The paper Multi-Granularity Hand Action Detection has been accepted by ACM Multimedia (MM). We will release the dataset and related code soon.
 
 
 
