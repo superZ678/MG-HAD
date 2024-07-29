@@ -24,7 +24,7 @@ https://github.com/superZ678/FHA-Kitchens/assets/35674945/16f7d614-3738-494b-baf
 
 # Statement
 
-This project is for research purposes only.
+This project is for research purposes only. For further questions, please contact Ting Zhe Li at zheting@whu.edu.cn.
 
 
 
