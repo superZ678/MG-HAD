@@ -38,4 +38,12 @@ This project is for research purposes only. For further questions, please contac
 
 ## Citation
 
-
+```bibtex
+@inproceedings{zhe2024multi,
+  title={Multi-Granularity Hand Action Detection},
+  author={Zhe, Ting and Zhang, Jing and Li, Yongqian and Luo, Yong and Hu, Han and Tao, Dacheng},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={5604--5613},
+  year={2024}
+}
+```
