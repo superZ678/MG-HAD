@@ -22,7 +22,7 @@
 Detecting hand actions in videos is crucial for understanding video content and has diverse real-world applications. Existing approaches often focus on whole-body actions or coarse-grained action categories, lacking fine-grained hand-action localization information. To fill this gap, we introduce the FHA-Kitchens (Fine-Grained Hand Actions in Kitchen Scenes) dataset, providing both coarse- and fine-grained hand action categories along with localization annotations. This dataset comprises 2,377 video clips and 30,047 frames, annotated with approximately 200k bounding boxes and 880 action categories. Evaluation of existing action detection methods on FHA-Kitchens reveals varying generalization capabilities across different granularities. To handle multi-granularity in hand actions, we propose MG-HAD, an End-to-End Multi-Granularity Hand Action Detection method. It incorporates two new designs: Multi-dimensional Action Queries and Coarse-Fine Contrastive Denoising. Extensive experiments demonstrate MG-HAD's effectiveness for multi-granularity hand action detection, highlighting the significance of FHA-Kitchens for future research and real-world applications.
 
 # Dataset
-To the best of our knowledge, we are the first to study the problem of multi-granularity hand action detection and establish the first hand-action dataset, FHA-Kitchens, which includes both hand interaction region localization and multi-granularity category annotations. This dataset can serve as a benchmark for hand action detection tasks. FHA-Kithcnes dataset and original annotation files can be downloaded [here](https://drive.google.com/drive/folders/1ZBD8GnhPt3kgWuyzrz_hTeOk4lZdNpGP?usp=drive_link). 
+To the best of our knowledge, we are the first to study the problem of multi-granularity hand action detection and establish the first hand-action dataset, FHA-Kitchens, which includes both hand interaction region localization and multi-granularity category annotations. This dataset can serve as a benchmark for hand action detection tasks. FHA-Kitchens dataset and original annotation files can be downloaded [here](https://drive.google.com/drive/folders/1ZBD8GnhPt3kgWuyzrz_hTeOk4lZdNpGP?usp=drive_link). 
 <div align=center>
 <img src="Figs/intro.png" width="70%">
 </div>
@@ -46,7 +46,7 @@ We propose a novel multi-granularity hand action detection method named MG-HAD, 
 
 
 # Result
-Visual detection results of our method in four different kitchens scenarios containing complex hand actions, i.e., “fry  vegetables”, “sandwich”, “salad”, and “fruit”. Our model offers accurate bounding boxes and multi-granularity hand action information for three hand sub-interaction regions.
+Visual detection results of our method in four different kitchen scenarios containing complex hand actions, i.e., “fry  vegetables”, “sandwich”, “salad”, and “fruit”. Our model offers accurate bounding boxes and multi-granularity hand action information for three hand sub-interaction regions.
 <div align=center>
 <img src="Figs/visdet.png" width="70%">
 </div>
