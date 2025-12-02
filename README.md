@@ -31,7 +31,6 @@ Overview of the FHA-Kitchens dataset. (a) The annotation of hand actions in exis
 <div align=center>
 <img src="Figs/comparison.png" width="70%">
 </div>
-Comparison of relevant datasets. AR: Action Recognition. AD: Action Detection. HAD: Hand Action Detection. OD: Object Detection. ACat.: Action Category. OCat.: Object Category. Dim: Action Dimension. IRBox: Interaction Region Box.
 
 ## Demo of bounding box annotations for different interaction regions
 
