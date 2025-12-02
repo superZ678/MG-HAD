@@ -27,14 +27,16 @@ Detecting hand actions in videos is crucial for understanding video content and 
 Overview of the FHA-Kitchens dataset. (a) The annotation of hand actions in existing relevant datasets, where UCF101 and Kinetics700 are whole-body action datasets, while MPII Cooking and EPIC KITCHENS are hand action datasets. (b) The annotation of hand actions in our dataset. The left shows some frames extracted from 8 dish categories. The right illustrates the annotation process of hand actions in “fry vegetable”.
 
 # Dataset
-To the best of our knowledge, we are the first to study the problem of multi-granularity hand action detection and establish the first hand-action dataset, FHA-Kitchens, which includes both hand interaction region localization and multi-granularity category annotations. This dataset can serve as a benchmark for hand action detection tasks.
+To the best of our knowledge, we are the first to study the problem of multi-granularity hand action detection and establish the first hand-action dataset, FHA-Kitchens, which includes both hand interaction region localization and multi-granularity category annotations. This dataset can serve as a benchmark for hand action detection tasks. FHA-Kithcnes dataset and original annotation files can be downloaded [here](https://drive.google.com/open?id=1WI-gsNLS-t0Kh8TVki1wXqc3y2Ow1f2R). 
+<div align=center>
+<img src="Figs/intro.png" width="70%">
+</div>
+Overview of the FHA-Kitchens dataset. (a) The annotation of hand actions in existing relevant datasets, where UCF101 and Kinetics700 are whole-body action datasets, while MPII Cooking and EPIC KITCHENS are hand action datasets. (b) The annotation of hand actions in our dataset. The left shows some frames extracted from 8 dish categories. The right illustrates the annotation process of hand actions in “fry vegetable”.
 
 <div align=center>
 <img src="Figs/comparison.png" width="70%">
 </div>
 Comparison of relevant datasets. AR: Action Recognition. AD: Action Detection. HAD: Hand Action Detection. OD: Object Detection. ACat.: Action Category. OCat.: Object Category. Dim: Action Dimension. IRBox: Interaction Region Box.
-
-FHA-Kithcnes dataset and original annotation files can be downloaded [here] (https://drive.google.com/drive/folders/1ZBD8GnhPt3kgWuyzrz_hTeOk4lZdNpGP?usp=drive_link)
 
 ## Demo of bounding box annotations for different interaction regions
 
@@ -47,14 +49,13 @@ We propose a novel multi-granularity hand action detection method named MG-HAD, 
 <div align=center>
 <img src="Figs/method.png" width="70%">
 </div>
-The overall architecture of MG-HAD, a novel end-to-end hand action detection model based on DINO. The improvements mainly focus on the decoder part.
 
 
 # Result
+Visual detection results of our method in four different kitchens scenarios containing complex hand actions, i.e., “fry  vegetables”, “sandwich”, “salad”, and “fruit”. Our model offers accurate bounding boxes and multi-granularity hand action information for three hand sub-interaction regions.
 <div align=center>
 <img src="Figs/visdet.png" width="70%">
 </div>
-Visual detection results of our method in four different kitchens scenarios containing complex hand actions, i.e., “fry  vegetables”, “sandwich”, “salad”, and “fruit”. Our model offers accurate bounding boxes and multi-granularity hand action information for three hand sub-interaction regions.
 
 # Statement
 
